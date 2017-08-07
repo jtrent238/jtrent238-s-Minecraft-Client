@@ -1,0 +1,10 @@
+{
+
+    "name":"JTClient",
+    "website":"<Client website>",
+    "author":"jtrent238",
+    "minversion":6,
+    "version":1,
+    "main":"com.jtrent238.client.Main.Main"
+
+}
